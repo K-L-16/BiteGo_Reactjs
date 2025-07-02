@@ -26,9 +26,9 @@ src/
   
   --assets/     - Images and icons
   
-  --public/       - Static assets
+public/       - Static assets
 
-  --vite.config.js - Build configuration
+vite.config.js - Build configuration
 
 ---
 License
