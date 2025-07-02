@@ -18,17 +18,17 @@ Project Structure
 
 src/
 
-  components/ - Reusable UI components
+  --components/ - Reusable UI components
   
-  context/    - State management
+  --context/    - State management
   
-  pages/      - Main application views
+  --pages/      - Main application views
   
-  assets/     - Images and icons
+  --assets/     - Images and icons
   
-  public/       - Static assets
+  --public/       - Static assets
 
-  vite.config.js - Build configuration
+  --vite.config.js - Build configuration
 
 ---
 License
